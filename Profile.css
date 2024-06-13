@@ -1,0 +1,28 @@
+
+
+
+
+
+Profile{
+height: auto;
+    width: 100%;
+    background: #797979;
+    color: #f6ecec;
+    padding: 4px 0;
+    position: fixed;
+    display: flex;
+    
+
+}
+img.profile{
+
+position: fixed;
+top: 30px;
+right: 20px;
+border-radius: 49%;
+    height: 25%;
+    width: 15%;
+    background: #fff8f8
+    ;
+    
+}
